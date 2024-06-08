@@ -1,0 +1,5 @@
+MD5：exp1,2,3
+MD5-1:exp4，exp11
+MD5-2:exp5
+MD5-3:exp6(10000)，exp8(100000)
+MD5-4:exp7(10000)，,exp9,exp10(100000)
